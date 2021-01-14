@@ -1,0 +1,54 @@
+body{
+    color:#363958;
+   
+
+}
+h1,h2, h3,h4{
+    font-family: 'Oswald', sans-serif;
+}
+.penguin-nav{
+    padding-bottom: 10px;
+    margin-bottom: 40px;
+}
+.penguin-nav-img{
+    width: 300px;
+}
+img{
+    width: 100%;
+}
+.penguin-btn img{
+    width: 30px;
+}
+.btn-color{
+    color: #fa804c;
+}
+.penguin-intro{
+    background-color: gray;
+    background-image: linear-gradient(white,grey);
+}
+.penguin-card {
+    border-radius: 30px;
+ 
+    border: 0;
+}
+.penguin-card-img{
+    background-color: #f1f1f1;
+    margin-right: 5px;
+    width: 90%;
+    margin: 5%;
+    border-radius: 30px;
+    
+}
+.penguin-card-footer {
+    border: 0;
+    background-color: white;
+}
+.subscribe{
+    height: 260px;
+}
+.submit-btn{
+    display: block;
+}
+.penguin-policy-bar{
+    border-radius: 30px;
+}
