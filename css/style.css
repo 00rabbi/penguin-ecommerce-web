@@ -17,7 +17,16 @@ img{
     width: 100%;
 }
 .penguin-btn img{
-    width: 30px;
+    width: ;
+}
+.penguin-btn{
+    color: white;
+    padding:10px 0;
+   
+    border: 0;
+    border-radius: 40px;
+    background: linear-gradient(rgb(187, 129, 226), blue);
+ 
 }
 .btn-color{
     color: #fa804c;
